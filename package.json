@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/ethanwillis/usps-api-client/issues"
   },
-  "homepage": "https://github.com/ethanwillis/usps-api-client#readme"
+  "homepage": "https://github.com/ethanwillis/usps-api-client#readme",
+  "dependencies": {
+    "xmlbuilder": "^13.0.2"
+  }
 }
